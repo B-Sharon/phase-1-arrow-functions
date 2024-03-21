@@ -1,5 +1,4 @@
-function divide(a, b) {
-    return a / b;
-}
+
+let divide = (a, b) => a / b;
 const square = x => x * x;
 const add = (a, b) => a + b;
